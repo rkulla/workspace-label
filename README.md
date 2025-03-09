@@ -16,7 +16,7 @@ or whatever you want each MacOS virtual desktop to be called, and when you switc
 
 ![Description](https://github.com/user-attachments/assets/fc21d5dd-3bb1-4e9f-b619-6084bf5a41c9)
 
-Note: The screenshot above is cropped. The label at the bottom will actually be shown in center of screen. The red rectangles won't be there and are just to highlight the places this project shows your workspace labels.
+Note: The screenshot above is cropped. The label at the bottom will actually be shown in center of screen. The red rectangles won't be there and are just to highlight the places this project shows your workspace labels.  The one on the screen will disappear after 1 second, which is why Switchbar is used since it can presist the label in the menu bar at a glance, in case you forget where you are.
 
 If your menu bar is cluttered, I recommend a tool like [Bartender](https://www.macbartender.com/) or similar, which is what I'm using. Just make sure to put switchbar in the "always show" section.
 
