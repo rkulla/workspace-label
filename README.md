@@ -14,6 +14,8 @@ Label MacOS workspaces
 
 or whatever you want each MacOS virtual desktop to be called, and when you switch workspaces, [Hamerspoon](https://www.hammerspoon.org/) will read that file and update a [SwiftBar](https://github.com/swiftbar/SwiftBar) plugin (included) that echo's the name of the current workspace, both as a Hammerspoon alert notification on the center of the screen and as the SwiftBar label in the menu bar.
 
+![Description](https://github.com/user-attachments/assets/fc21d5dd-3bb1-4e9f-b619-6084bf5a41c9)
+
 ## Installation and Setup
 
 1. Install SwiftBar (it's free/open-source)
